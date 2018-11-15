@@ -18,6 +18,7 @@ Then I use Arcgis to do some work, make it into a shapefile.
 Another one is the basement map of New York State which contains population data of each county.
 https://gis.ny.gov/gisdata/inventories/details.cfm?DSID=1278
 
+
 ## Methods
 
 * Using Arcgis to do geocoding work with New York State locator
